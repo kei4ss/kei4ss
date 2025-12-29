@@ -3,4 +3,3 @@
 ## Technologies I use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kei4ss&layout=donut)](https://github.com/kei4ss/github-readme-stats)
 
-![Stars](https://img.shields.io/github/stars/kei4ss/space-invaders-Pygame?style=social)
